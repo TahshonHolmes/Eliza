@@ -1,4 +1,4 @@
-# Tahshon Holmes - CMSC 416 - 02/05/2024 - Programming Assignment 1
+# Tahshon Holmes - 02/05/2024 
 # Tasked with writing a program to engage in dialogue with the user and the program should 
 #     take the role of a psychotherapist named eliza. The program should recognize some key 
 #     words and respond simply based on those words being in the user input. Also it should translate
