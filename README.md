@@ -24,7 +24,7 @@ This repository contains the implementation of a simple psychotherapist chatbot 
 To start the chatbot, run the following command in the terminal:
 ```bash
 python eliza.py
-
+```
 Follow the prompts and engage in a conversation with Eliza.
 
 Implementation
